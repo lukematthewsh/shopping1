@@ -1,9 +1,2 @@
 eggs
-milk
-sourkraut
-jackfruit
-chunky monkey
-bread
-pizza
-ice cream
-dog food
+ketchup
