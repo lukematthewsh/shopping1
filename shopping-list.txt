@@ -1,2 +1,5 @@
 eggs
 ketchup
+dog food
+pizza 
+juice
