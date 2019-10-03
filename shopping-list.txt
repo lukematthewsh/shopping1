@@ -2,4 +2,4 @@ eggs
 ketchup
 dog food
 pizza 
-juice
+chunky monkey
